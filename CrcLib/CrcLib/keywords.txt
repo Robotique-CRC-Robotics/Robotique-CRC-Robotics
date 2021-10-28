@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For CrcLib
+# YOU LOST THE GAME
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CrcLib	KEYWORD1
+ANALOG	KEYWORD1
+BUTTON	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Initialize	KEYWORD2
+Update	KEYWORD2
+GetBatteryVoltage	KEYWORD2
+GetDeltaTimeMillis	KEYWORD2
+GetDeltaTimeMicros	KEYWORD2
+SetDigitalPinMode	KEYWORD2
+GetDigitalInput	KEYWORD2
+SetDigitalOutput	KEYWORD2
+GetAnalogInput	KEYWORD2
+InitializePwmOutput	KEYWORD2
+SetPwmOutput	KEYWORD2
+ReadAnalogChannel	KEYWORD2
+ReadDigitalChannel	KEYWORD2
+IsCommValid	KEYWORD2
+MoveTank	KEYWORD2
+MoveArcade	KEYWORD2
+MoveHolonomic	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
