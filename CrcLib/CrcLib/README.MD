@@ -3,7 +3,7 @@
 
 ## Release 1.2.0 notes
 
--Updated to work with remote upload via th3 CrcConnect.
+-Updated to work with remote upload via the CrcConnect.
 -Reset joysticks to midpoint instead of zero when disconnected.
 
 -----
@@ -12,5 +12,5 @@
 
 ## Note de la publication 1.2.0
 
--Mise à jour pour permettre le upload à partir de la CrcConnect.
--Les joysticks reviennent au point milieu, au lieu de zero, quand la CrcConnect se déconnecte.
+-Mise Ã  jour pour permettre le upload Ã  partir de la CrcConnect.
+-Les joysticks reviennent au point milieu, au lieu de zero, quand la CrcConnect se dÃ©connecte.
