@@ -1,6 +1,6 @@
 # Robotique-CRC-Robotics
 
-Version 1.2.0
+[Version 1.2.0](/CrcLib/CrcLib_1.2.0.zip)
 
 Les instructions sur comment installer cette librairie se retrouvent [ici](https://robocrc.atlassian.net/wiki/spaces/AR/pages/668729437/Programmer+le+CrcDuino).
 
